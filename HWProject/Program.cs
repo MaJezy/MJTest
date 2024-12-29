@@ -1,3 +1,3 @@
 ﻿
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Yep, it`s just a greetings program");
+Console.WriteLine("I think my creator deserves a best grade in this discipline");
